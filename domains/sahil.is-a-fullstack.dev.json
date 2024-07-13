@@ -1,0 +1,16 @@
+{
+    "description": "Bookmark manager ",
+
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "sahil",
+
+    "owner": {
+        "email": "sahil.maji@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "bookmark-i6r8gse0i-sahils-projects-02fb737f.vercel.app",
+    },
+
+    "proxied": false
+}
